@@ -1,0 +1,16 @@
+{
+  "name": "ext-to-mime",
+  "version": "1.0.0",
+  "description": "Simple JS function to convert a file extension to a mime type.",
+  "main": "ext-to-mime.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reedhewitt/ext-to-mime.git"
+  },
+  "author": "Reed Hewitt <reed@reedhewitt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reedhewitt/ext-to-mime/issues"
+  },
+  "homepage": "https://github.com/reedhewitt/ext-to-mime#readme"
+}
