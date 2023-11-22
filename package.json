@@ -1,6 +1,6 @@
 {
   "name": "ext-to-mime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple JS function to convert a file extension to a mime type.",
   "main": "ext-to-mime.js",
   "repository": {
