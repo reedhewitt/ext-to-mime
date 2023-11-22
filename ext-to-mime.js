@@ -44,7 +44,7 @@ export default function extToMime(ext){
     //  Audio
     ////////////////////////////////////////////////////////////////
 
-    case 'aac';
+    case 'aac':
       return 'audio/aac';
     case 'mp3':
       return 'audio/mpeg';
